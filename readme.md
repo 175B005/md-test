@@ -94,7 +94,7 @@ void Start(){
 
 ## 画像にリンク
 
-[![ALT属性](http://dotinstall.com/img/logo_200x200.png)](http://dotoinstall.com)
+[![ALT属性](http://dotinstall.com/img/logo_200x200.png)](http://dotinstall.com)
 
 リンクと画像を組み合わせたもの。ブラケット内に、画像のマークダウンを書いて、（）内にリンク先のURLを書く  
 
