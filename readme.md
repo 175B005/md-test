@@ -90,11 +90,11 @@ void Start(){
 - ALT属性とは、画像が取得できなかったり、非表示のときに、  
 代わりに表示される文字列
 
-![ALT属性](http://dotoinstall.com/img/logo_200x200.png)
+![ALT属性](http://dotinstall.com/img/logo_200x200.png)
 
 ## 画像にリンク
 
-[![ALT属性](http://dotoinstall.com/img/logo_200x200.png)](http://dotoinstall.com)
+[![ALT属性](http://dotinstall.com/img/logo_200x200.png)](http://dotoinstall.com)
 
 リンクと画像を組み合わせたもの。ブラケット内に、画像のマークダウンを書いて、（）内にリンク先のURLを書く  
 
